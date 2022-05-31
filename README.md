@@ -14,3 +14,8 @@
 ![Express](https://img.shields.io/badge/-Express-282c34?style=for-the-badge&logo=express)
 ![Github](https://img.shields.io/badge/-Github-282c34?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-figma-282c34?style=for-the-badge&logo=figma)
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=Telegram)](https://t.me/yonko_0)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-282c34?style=for-the-badge&logo=Vk&logoColor=4f7db3)](https://vk.com/yonko_0)
