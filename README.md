@@ -1,6 +1,6 @@
 ![Header](https://github.com/AceViral/aceviral/blob/main/assets/header.png)
 
-## I'm beginner frontend developer
+## I'm frontend developer
 
 ### Languges and Tools
 
